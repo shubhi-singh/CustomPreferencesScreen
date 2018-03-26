@@ -1,7 +1,7 @@
 # CustomPreferencesScreen
 To run it on your machine run the following commands in your terminal:
 <br>
-git clone https://github.com/coolio-1/CustomPreferencesScreen
+git clone https://github.com/coolio-1/CustomPreferencesScreen.git
 <br>
 This will create a local copy of the app on your machine.
 Then run the app on Android Studio.
